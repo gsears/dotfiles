@@ -12,6 +12,7 @@ prepare:
 .PHONY: link
 link: prepare
 	stow -v -t ~ git
+	stow -v -t ~ tmux
 
 .PHONY: clean
 clean:
