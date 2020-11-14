@@ -1,7 +1,7 @@
 [user]
 	name = Gareth Sears
 [core]
-	excludesfile = ~/.gitignore
+	excludesfile = /Users/gareth/.gitignore_global
 [alias]
 	s = status --short
 	co = checkout
